@@ -1,0 +1,12 @@
+1. What is __functionName__ called ?      dunder
+2. What will happen if don't include self in function and why?
+3. How does python manage memory ?        using garbage collector
+4. How convert char 'a' to ascii in python? ord()
+5. deepcopy() ?
+6. How to check if a class is a child class ? using isinstance() or issubclass(childclas Name , ParentclassName)
+7. all() and any()?   
+8. What is the parent class of all exceptions in python ? BaseException
+9. How to access a private variable from outside the class ? _ClassName__variableName
+10. How does pop work different in set and list ? in set random deletion in list pop deletes from the back
+11. What is the difference between error and exception ? exception can be handled
+12. What is the first function that python runs when we create a new object of a class?  __new__

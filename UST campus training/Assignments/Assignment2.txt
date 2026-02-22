@@ -1,0 +1,14 @@
+Why we cannnot call the local variable from outside ?
+	We cannot call the local variable from outside because, it imporves the security of the
+program as some variables cannot be accessed outside its scope. A scope of a local variable is 
+inside it's function. A global variable can be accessed from anywhere inside our program. It 
+also makes the management of memory more efficient.
+
+Where to use filter, map and reduce function ?
+	Filter functions can be used to filter out certain values from an iterable like
+lists. Map function is used to perform certain task like adding a value to it,
+multiplying every element by a number and so on to every elements in the iterable.
+Reduce function is used to reduce all the elements in the iterable to a single 
+value such as calculating the sum of all the elements or product of all the 
+elements. Map returns an iterable of the same size. Filter returns an iterable
+that has size less than or equal to the original list. Reduce returns a single value.

@@ -1,0 +1,2 @@
+1. Create a directory, put a file inside , write data inside the file , read the file 
+and delete the file and directory.
